@@ -23,5 +23,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 
-[Unreleased]: https://github.com/rubocop-semver/rubocop-ruby2_5/compare/.v1.0.0...HEAD
+[Unreleased]: https://github.com/rubocop-semver/rubocop-ruby2_5/compare/v1.0.0...HEAD
 [1.0.0]: https://github.com/rubocop-semver/rubocop-ruby2_5/compare/78b4f8131d931354f76d4025ab0517fc9792fed2...v1.0.0
