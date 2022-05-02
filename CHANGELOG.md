@@ -15,6 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.0.1] 2022-05-02
 ### Added
+* Documentation
 
 ### Changed
 * Lock rubocop dependency at 1.28.2; next version drops Ruby 2.5 support
