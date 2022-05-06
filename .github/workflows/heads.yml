@@ -40,7 +40,6 @@ jobs:
           - latest
         ruby:
           - "ruby-head"
-          - "jruby-head"
 
     runs-on: ubuntu-latest
     continue-on-error: ${{ matrix.experimental || endsWith(matrix.ruby, 'head') }}
