@@ -10,7 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 ### Removed
 
-## [2.0.1] 2023-05-18
+## [2.0.1] 2023-05-19
 ### Fixed
 - Ship rakelib/**/*.rake tasks
 - Fix rake_tasks hook on Railtie
