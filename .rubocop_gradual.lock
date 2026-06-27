@@ -1,5 +1,5 @@
 {
-  "rubocop-ruby2_5.gemspec:3882281162": [
+  "rubocop-ruby2_5.gemspec:2653515217": [
     [19, 32, 10, "Gemspec/RequiredRubyVersion: `required_ruby_version` and `TargetRubyVersion` (2.5, which may be specified in .rubocop.yml) should be equal.", 4072499287]
   ]
 }
