@@ -1,5 +1,9 @@
 {
-  "rubocop-ruby2_5.gemspec:505538196": [
+  "rubocop-ruby2_5.gemspec:2887309051": [
     [19, 32, 10, "Gemspec/RequiredRubyVersion: `required_ruby_version` and `TargetRubyVersion` (2.5, which may be specified in .rubocop.yml) should be equal.", 4072499287]
+  ],
+  "spec/rubocop/ruby2_5/version_spec.rb:2674103208": [
+    [4, 1, 39, "RSpec/SpecFilePathFormat: Spec path should end with `rubocop/ruby25/version*_spec.rb`.", 3910327366],
+    [7, 3, 452, "RSpec/ExampleLength: Example has too many lines. [6/5]", 1092984509]
   ]
 }
