@@ -2,9 +2,9 @@
 
 # external libs
 require "version_gem"
+require_relative "ruby2_5/version"
 
 # this gem
-require_relative "ruby2_5/version"
 # simplecov:disable
 require_relative "ruby2_5/railtie" if defined?(Rails::Railtie)
 # simplecov:enable
